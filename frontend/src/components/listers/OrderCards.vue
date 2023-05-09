@@ -72,6 +72,7 @@
                 'userId': 0,
                 'qty': 0,
                 'productName': '',
+                'status': '',
             }
         },
         methods:{
